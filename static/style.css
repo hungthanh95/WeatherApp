@@ -90,6 +90,13 @@ input {
 	height: 10%;
 }
 
+.time {
+	text-align: center;
+	font-size: 1.5vw;
+	height: 10%;
+	padding-bottom: 20%;
+}
+
 .day > .degrees {
 	color: black;
 }
@@ -105,7 +112,7 @@ input {
 
 .city {
 	text-align: center;
-	height: 70%;
+	height: 60%;
 	font-size: 2vw;
 	display: flex;
 	justify-content: center;
@@ -161,7 +168,8 @@ input {
 }
 
 ::-webkit-scrollbar-track {
-  background:  linear-gradient(0deg, #836273 0%, #373252 100%);
+	background: linear-gradient(0deg, #836273 0%, #373252 100%);
+}
 
 ::-webkit-scrollbar-thumb {
   background: #888;
