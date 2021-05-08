@@ -30,7 +30,7 @@ html, body {
 }
 
 .form {
-	margin-top: 7%;
+	margin-top: 4%;
 	padding-left: 10%;
 	padding-right: 10%;
 	text-align: center;
@@ -83,7 +83,13 @@ input {
 	padding-right: 0.5vw;
 	padding-top: 0.4vw;
 }
-
+.title {
+	text-align: center;
+	font-size: 4vw;
+	color: white;
+	padding-top: 4%;
+	font-family: 'Quicksand', sans-serif;
+}
 .degrees {
 	text-align: center;
 	font-size: 2.5vw;
